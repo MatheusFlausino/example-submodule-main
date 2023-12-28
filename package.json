@@ -1,0 +1,13 @@
+{
+  "name": "submodule-main",
+  "version": "1.0.0",
+  "description": "Example Submodule on github - Main",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
